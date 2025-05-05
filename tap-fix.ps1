@@ -1,5 +1,3 @@
-# Install-KB5046617.ps1
-
 # Define the KB file names
 $kbList = @(
     "windows11.0-kb5046617-x64_1e5d7b716c0747592ae80c218f1d81bbb7b0c7ab.msu",
